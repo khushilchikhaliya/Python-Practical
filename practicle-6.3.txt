@@ -1,0 +1,2 @@
+Hello, my name is Khush.
+I am learning file handling.
